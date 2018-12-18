@@ -1,0 +1,18 @@
+C:\Users\Lily\source\repos\FileSearcher Project\Search\bin\Debug\Search.dll
+C:\Users\Lily\source\repos\FileSearcher Project\Search\bin\Debug\Search.pdb
+C:\Users\Lily\source\repos\FileSearcher Project\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\Users\Lily\source\repos\FileSearcher Project\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\Lily\source\repos\FileSearcher Project\Search\obj\Debug\Search.dll
+C:\Users\Lily\source\repos\FileSearcher Project\Search\obj\Debug\Search.pdb
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\Search\bin\Debug\Search.dll
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\Search\bin\Debug\Search.pdb
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\Search\obj\Debug\Search.dll
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\Search\obj\Debug\Search.pdb
+C:\filesearch\FileSearcher Project\Search\bin\Debug\Search.dll
+C:\filesearch\FileSearcher Project\Search\bin\Debug\Search.pdb
+C:\filesearch\FileSearcher Project\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\filesearch\FileSearcher Project\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\filesearch\FileSearcher Project\Search\obj\Debug\Search.dll
+C:\filesearch\FileSearcher Project\Search\obj\Debug\Search.pdb

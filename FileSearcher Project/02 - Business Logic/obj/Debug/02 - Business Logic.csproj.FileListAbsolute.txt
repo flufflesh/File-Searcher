@@ -1,0 +1,45 @@
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\bin\Debug\02 - Business Logic.dll.config
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\bin\Debug\02 - Business Logic.dll
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\bin\Debug\02 - Business Logic.pdb
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\bin\Debug\01 - Data Access Layer.dll
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.dll
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\bin\Debug\01 - Data Access Layer.pdb
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\bin\Debug\01 - Data Access Layer.dll.config
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.xml
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.csprojAssemblyReference.cache
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.csproj.CoreCompileInputs.cache
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.csproj.CopyComplete
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.dll
+C:\Users\Lily\source\repos\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.pdb
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\bin\Debug\02 - Business Logic.dll.config
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\bin\Debug\02 - Business Logic.dll
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\bin\Debug\02 - Business Logic.pdb
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\bin\Debug\01 - Data Access Layer.dll
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.dll
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\bin\Debug\01 - Data Access Layer.pdb
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\bin\Debug\01 - Data Access Layer.dll.config
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.xml
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.csprojAssemblyReference.cache
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.csproj.CoreCompileInputs.cache
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.csproj.CopyComplete
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.dll
+C:\Users\Son\Documents\FileSearcher Project\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.pdb
+C:\filesearch\FileSearcher Project\02 - Business Logic\bin\Debug\02 - Business Logic.dll.config
+C:\filesearch\FileSearcher Project\02 - Business Logic\bin\Debug\02 - Business Logic.dll
+C:\filesearch\FileSearcher Project\02 - Business Logic\bin\Debug\02 - Business Logic.pdb
+C:\filesearch\FileSearcher Project\02 - Business Logic\bin\Debug\01 - Data Access Layer.dll
+C:\filesearch\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.dll
+C:\filesearch\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\filesearch\FileSearcher Project\02 - Business Logic\bin\Debug\01 - Data Access Layer.pdb
+C:\filesearch\FileSearcher Project\02 - Business Logic\bin\Debug\01 - Data Access Layer.dll.config
+C:\filesearch\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.xml
+C:\filesearch\FileSearcher Project\02 - Business Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\filesearch\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.csprojAssemblyReference.cache
+C:\filesearch\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.csproj.CoreCompileInputs.cache
+C:\filesearch\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.csproj.CopyComplete
+C:\filesearch\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.dll
+C:\filesearch\FileSearcher Project\02 - Business Logic\obj\Debug\02 - Business Logic.pdb
